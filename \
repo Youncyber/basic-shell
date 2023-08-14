@@ -1,0 +1,6 @@
+#!/bin/bash
+my_song=("Ice cream inside tea, Ice cream inside tea, Ice cream inside tea, Abasha. Ice cream inside malt, Ice cream inside malt, Ice cream inside malt, Abasha. ma ma march matain you can do it don,t give up open the door for me")
+echo ${my_song[@]}
+~                                                                                                                                   
+~             
+~             
