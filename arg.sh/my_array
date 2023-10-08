@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+my_plate="yam egg potato beans toast_bread rice ETC."
+my_company="chair table AC office ETC."
+my_factory="lawyer_cothe lawyer_cap etc."
+echo ${my_plate[@]}
+echo ${my_company[@]}
+echo ${my_factory[@]}
+
